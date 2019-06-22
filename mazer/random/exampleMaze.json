@@ -1,0 +1,138 @@
+{
+  "name": "Maze #35 (10x10)",
+  "mazePath": "/mazebot/mazes/_-RvTPeTykpIv-ykUWDKGLelLQnfc-LIMvpqHnZhysQ",
+  "startingPosition": [
+    2,
+    9
+  ],
+  "endingPosition": [
+    1,
+    4
+  ],
+  "message": "When you have figured out the solution, post it back to this url in JSON format. See the exampleSolution for more information.",
+  "exampleSolution": {
+    "directions": "ENWNNENWNNS"
+  },
+  "map": [
+    [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    [
+      " ",
+      "X",
+      " ",
+      "X",
+      "X",
+      "X",
+      " ",
+      "X",
+      " ",
+      " "
+    ],
+    [
+      " ",
+      "X",
+      "X",
+      " ",
+      " ",
+      " ",
+      "X",
+      "X",
+      " ",
+      "X"
+    ],
+    [
+      " ",
+      "X",
+      " ",
+      " ",
+      "X",
+      " ",
+      "X",
+      " ",
+      " ",
+      " "
+    ],
+    [
+      " ",
+      "B",
+      "X",
+      "X",
+      "X",
+      " ",
+      "X",
+      " ",
+      "X",
+      " "
+    ],
+    [
+      " ",
+      "X",
+      " ",
+      " ",
+      " ",
+      "X",
+      "X",
+      " ",
+      "X",
+      " "
+    ],
+    [
+      "X",
+      " ",
+      " ",
+      "X",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    [
+      "X",
+      "X",
+      " ",
+      "X",
+      "X",
+      "X",
+      "X",
+      "X",
+      " ",
+      "X"
+    ],
+    [
+      "X",
+      " ",
+      " ",
+      "X",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      "X"
+    ],
+    [
+      "X",
+      " ",
+      "A",
+      " ",
+      " ",
+      "X",
+      " ",
+      "X",
+      "X",
+      "X"
+    ]
+  ]
+}
